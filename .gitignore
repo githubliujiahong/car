@@ -1,0 +1,14 @@
+# Output files
+out.mp4
+*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
